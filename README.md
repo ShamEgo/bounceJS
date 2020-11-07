@@ -1,5 +1,5 @@
 # bounceJS
-Written in Processing JS is a visualization of a bouncing scribbles.
+Visualization of a bouncing scribbles written in Processing JS.
 
 # How to run
 1. Download Processing3 from https://processing.org/download/
